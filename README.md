@@ -22,7 +22,7 @@
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/v2ray.svg)](https://repology.org/project/v2ray/versions)
 
-## License
+## License 
 
 [The MIT License (MIT)](https://raw.githubusercontent.com/v2fly/v2ray-core/master/LICENSE)
 
